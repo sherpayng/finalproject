@@ -1,0 +1,16 @@
+h1,h2,h4{color: #f1c9fe;
+        font-family: "Trebuchet MS"}
+h6{text-align: center;}
+p{font-family: "Trebuchet MS";
+	font-weight: regular;
+	color: #f1c9fe;
+	padding: 25px;
+	background-color: #000000  ;
+	text-align: left;}
+a {color: #d357fe;
+	text-decoration: none;
+  font-family: "Trebuchet MS"}
+body{background-color: #000000;
+	margin: 100px;}
+img{margin: 0 auto;
+	display: block;}
